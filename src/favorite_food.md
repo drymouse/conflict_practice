@@ -1,3 +1,3 @@
 # favorite food
 
-No, apple, but banana!
+Apple and banana!
